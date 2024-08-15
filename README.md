@@ -7,3 +7,5 @@ I'm a full stack developer with a focus on front end design libraries, and creat
   * Recent work in [Kongponents](https://github.com/Kong/kongponents/pulls?q=is%3Apr+author%3Amihai-peteu+is%3Aclosed) 
 - 📚 Keeping up with the latest Vue/Nuxt, and React/Nextjs trends
 - ⚡ Portfolio: [https://www.mihaipet.eu](https://www.mihaipet.eu/)
+
+![](https://komarev.com/ghpvc/?username=jericho1ne&color=brightgreen)
