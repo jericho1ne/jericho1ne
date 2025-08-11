@@ -2,7 +2,7 @@
 
 I'm a full stack developer with a focus on front end design libraries, and creating a positive developer experience.
 
-- 🛡️ Currently building out Front End toolkit at [Gallatin AI](https://www.gallatin.ai/)
+- 🛡️ Currently building out the Front End toolkit at [Gallatin AI](https://www.gallatin.ai/)
   * We're hiring for all positions: [https://www.gallatin.ai/careers](https://www.gallatin.ai/careers)
 - 🔭 Previously contributed to Kong's design library and analytics dashboards.
   * PRs in [public-ui-components](https://github.com/Kong/public-ui-components/pulls?q=is%3Apr+is%3Aclosed+author%3Amihai-peteu)
